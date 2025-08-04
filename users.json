@@ -1,0 +1,14 @@
+[
+  {
+    "name": "João",
+    "email": "joao@email.com",
+    "city": "Campinas",
+    "state": "SP"
+  },
+  {
+    "name": "Igor",
+    "email": "igor@gmail.com",
+    "city": "Salvador",
+    "state": "Bahia"
+  }
+]
